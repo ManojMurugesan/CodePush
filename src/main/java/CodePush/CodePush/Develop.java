@@ -18,6 +18,11 @@ public class Develop {
 	    public void testLogout() {
 	        System.out.println("Test 3: Logout test executed ");
 	    }
+	    
+	    @Test
+	    public void testLogout2() {
+	        System.out.println("Test 4: Logout test executed ");
+	    }
 
 
 }
