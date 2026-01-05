@@ -16,7 +16,7 @@ public class Develop {
 
 	    @Test
 	    public void testLogout() {
-	        System.out.println("Test 3: Logout test executed");
+	        System.out.println("Test 3: Logout test executed ");
 	    }
 
 
